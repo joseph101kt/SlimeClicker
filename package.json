@@ -1,0 +1,18 @@
+{
+  "name": "slime_clicker",
+  "version": "1.0.0",
+  "main": "MainScene.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
